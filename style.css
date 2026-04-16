@@ -1,0 +1,70 @@
+
+*{
+font-family: "Roboto Condensed", sans-serif;
+
+}
+
+h1{
+
+font-family: "Sekuya", system-ui;
+color: white;
+
+}
+
+
+main{
+
+
+    background-image: url(https://t4.ftcdn.net/jpg/05/71/83/47/360_F_571834789_ujYbUnH190iUokdDhZq7GXeTBRgqYVwa.jpg);
+}
+
+
+p{
+
+    color: white;
+    
+}
+
+
+h4{
+
+color: yellow;
+
+}
+
+.color{
+
+background-color: black;
+
+color: yellow;
+
+
+}
+
+.color:hover{
+color: blueviolet;
+
+
+}
+
+
+.clora{
+
+color: yellow;
+
+}
+
+
+
+.clora:hover{
+
+color: blue;
+
+}
+
+.box {
+
+
+color: yellow;
+
+}
